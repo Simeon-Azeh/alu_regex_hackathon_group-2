@@ -24,6 +24,7 @@ Identify dates in the format dd-MMM-yyyy.
 Hex Color Codes:
 
 Extract codes in the pattern "#XXXXXX".
-IP Addresses:
+
+IP Addresses.:
 
 Find addresses in the format "xxx.xxx.xxx.xxx".

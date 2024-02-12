@@ -1,4 +1,4 @@
-// Sample string containing IP addresses
+//ssample string just look
 const string = "The server's IP address is 192.168.1.2";
 
 // Regular expression pattern for extracting IP addresses
